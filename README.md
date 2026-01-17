@@ -4,5 +4,5 @@
 - 👀 Interested in tech, design, and open source
 - 🚀 Exploring the digital world
 
-![GitHub Stats]i7on's GitHub stats](https://github-readme-stats.vercel.app/api?username=i7on&show_icons=true&theme=radical)
+[GitHub Stats i7on's GitHub stats (https://github-readme-stats.vercel.app/api?username=i7on&show_icons=true&theme=radical)
 
